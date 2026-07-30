@@ -38,3 +38,6 @@ next-env.d.ts
 
 # local secrets scratch file
 env.txt
+
+# resumed-session scratch
+resume-claude/
