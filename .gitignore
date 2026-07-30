@@ -41,3 +41,4 @@ env.txt
 
 # resumed-session scratch
 resume-claude/
+.trigger
